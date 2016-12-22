@@ -5,8 +5,25 @@
 : theme
    clear-code
 
-= 最初のスライド
+= PostgreSQLの課題
 
-  * 項目1
-  * 項目2
-  * 項目3
+  * (('wait'))組込全文検索機能
+    * 日本語未対応
+  * (('wait'))サードパーティーの拡張機能
+    * 日本語対応だが遅い
+
+(('wait'))
+(('tag:center'))
+↓\n
+PGroonga：日本語対応で速い
+
+= 速度
+
+  # image
+  # src = images/search-pgroonga-pg-bigm.pdf
+  # relative_width = 100
+
+== スライドプロパティ
+
+: enable-title-on-image
+   false
