@@ -1,0 +1,24 @@
+---
+id: pgroonga-introduction
+base_name: pgroonga-introduction
+tags:
+- rabbit
+- pgroonga
+- postgresql
+presentation_date: 
+version: 2016.12.22.0
+licenses:
+- CC-BY-SA-4.0
+- CC-BY-3.0
+slideshare_id: 
+speaker_deck_id: 
+ustream_id: 
+vimeo_id: 
+youtube_id: 
+author:
+  markup_language: :rd
+  name: クリアコード
+  email: rubygems@clear-code.com
+  rubygems_user: clear-code
+  slideshare_user: 
+  speaker_deck_user: 
