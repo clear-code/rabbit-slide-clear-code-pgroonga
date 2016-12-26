@@ -27,3 +27,18 @@ PGroonga：日本語対応で速い
 
 : enable-title-on-image
    false
+
+= 速い理由
+
+(('tag:center'))
+(('tag:margin-bottom * 2'))
+((*recheck*))が必要ない\n
+(('note:recheck:インデックス検索後のシーケンシャルサーチ'))\n
+(('note:シーケンシャルサーチ=ヒット件数が多いほど遅い'))\n
+
+  # RT
+
+  索引, ((*完全*))\n転置索引か, recheck
+
+  GIN, No, 必要
+  PGroonga, ((*Yes*)), ((*必要ない*))
